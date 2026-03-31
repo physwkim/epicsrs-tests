@@ -1,0 +1,13 @@
+# ophyd with epicsrs backend support (feature/epicsrs-backend branch)
+ophyd @ git+https://github.com/physwkim/ophyd.git@9359f199e67790eb2d366173f26c11e503d1751f
+
+# Rust CA backend for ophyd (v0.2.0)
+ophyd-epicsrs @ git+https://github.com/physwkim/ophyd-epicsrs.git@v0.2.0
+
+# Async MongoDB writer with Rust backend
+bluesky-dataforge @ git+https://github.com/physwkim/bluesky-dataforge.git@2254ddc594957c8befc91e7fcb4868a8bb868b8d
+
+# Core dependencies
+bluesky>=1.13
+numpy>=2.2
+pymongo>=4.10
