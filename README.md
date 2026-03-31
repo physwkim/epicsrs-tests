@@ -100,7 +100,7 @@ Exact commits are pinned in `requirements.txt` to ensure reproducibility:
 |---------|-----------------|
 | ophyd | `physwkim/ophyd@9359f19` (feature/epicsrs-backend) |
 | ophyd-epicsrs | `v0.2.0` |
-| bluesky-dataforge | `physwkim/bluesky-dataforge@2254ddc` |
+| bluesky-dataforge | `v0.2.0` |
 
 ## Related projects
 
